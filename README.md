@@ -1,7 +1,7 @@
 # Farmer Aider
 
 The objective of this project is to provide real-time assistance to farmers who are not getting proper timely
-treatment for there plants.
+treatment for there plants. It is a Q&A based website developed for the assistance of farmers.
 
 If you want to run this project then please install the required packages given in the package.json file in
 
