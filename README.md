@@ -9,3 +9,5 @@ Command : npm install
 
 Configure a MySQL database locally. The database and all its information is given in the db_farmer_aider_system.sql
 file.
+
+To run the project change directory to \Project\Back-end and enter "node index.js" command.
